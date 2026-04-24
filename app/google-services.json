@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15829119706",
+    "firebase_url": "https://kato-bb5b9-default-rtdb.firebaseio.com",
+    "project_id": "kato-bb5b9",
+    "storage_bucket": "kato-bb5b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15829119706:android:b46c57409079a4635bebe3",
+        "android_client_info": {
+          "package_name": "com.example.katoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15829119706-e6joeoaopff382mf7urbgecrl04d1jm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.katoapp",
+            "certificate_hash": "363b62ac858b6dfd63826a7f3f3aae3124707738"
+          }
+        },
+        {
+          "client_id": "15829119706-phidksf9cb1u1cbnrov7tc94e0bigqkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACNQjmLQm8KBtwVjnACw_zBAN_C_2a4BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15829119706-phidksf9cb1u1cbnrov7tc94e0bigqkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
