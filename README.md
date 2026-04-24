@@ -1,8 +1,7 @@
 # 📱 KatoApp — Prompt Storage & Sharing App
 
-## 🇮🇩 Bahasa Indonesia
 
-### 📌 Deskripsi Aplikasi
+###  Deskripsi Aplikasi
 
 KatoApp adalah aplikasi yang dirancang untuk membantu pengguna dalam menyimpan, mengelola, dan membagikan prompt (misalnya prompt AI seperti ChatGPT, Midjourney, dll).
 Aplikasi ini memungkinkan pengguna untuk membuat koleksi prompt pribadi serta berbagi prompt dengan komunitas.
@@ -84,28 +83,11 @@ app/google-services.json
 
 ---
 
-# 🌐 English
 
-### 📌 Application Description
+###  Application Description
 
 KatoApp is an application designed to help users store, manage, and share prompts (such as AI prompts from ChatGPT, Midjourney, and similar tools).
 It allows users to create personal prompt collections and share them with the community.
-
----
-
-## 🖼️ Application Screens
-
-### Screen 1
-
-![Screen 1](path/to/image1.png)
-
-### Screen 2
-
-![Screen 2](path/to/image2.png)
-
-### Screen 3
-
-![Screen 3](path/to/image3.png)
 
 ---
 
