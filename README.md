@@ -1,4 +1,5 @@
-<img width="40" src="https://github.com/user-attachments/assets/ebb274e8-7122-4233-bc9c-803982e7112c" /> # KatoApp — Prompt Storage & Sharing App
+# 📱 KatoApp — Prompt Storage & Sharing App
+
 
 ###  Deskripsi Aplikasi
 
