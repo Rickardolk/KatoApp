@@ -1,4 +1,4 @@
-# 📱 KatoApp — Prompt Storage & Sharing App
+# 📱 KatoApp — Prompt Manager and Sharing App
 
 
 ###  Deskripsi Aplikasi
