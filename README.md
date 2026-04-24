@@ -12,11 +12,13 @@ Aplikasi ini memungkinkan pengguna untuk membuat koleksi prompt pribadi serta be
 ## 🖼️ Tampilan Aplikasi
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e24a146e-4f79-49e8-a342-a2a4148fc968" width="20%"/>
+  <img src="https://github.com/user-attachments/assets/d130d44b-3fca-4482-95a6-38b50631c115" width="20%"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/ad76db9a-9518-4285-85f0-3ba147f180d6" width="20%" />
+  <img src="https://github.com/user-attachments/assets/9f9db9f5-c4b9-4705-8a9e-8c4627b3c5cb" width="20%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/3f44f077-c31e-4a64-853f-f23fd9416610" width="20%" />
+  <img src="https://github.com/user-attachments/assets/64165a33-0d36-4e77-9fd2-6f6db870346b" width="20%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/3ab0fc85-0abb-49c4-aea8-28ba267c8585" width="20%" />
 </div>
 
 ---
