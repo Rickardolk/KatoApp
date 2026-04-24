@@ -75,10 +75,10 @@ app/google-services.json
 ### 3. Jalankan Aplikasi
 
 * Hubungkan device / jalankan emulator
-* Klik tombol **Run** di Android Studio
 
 ---
 
+<br>
 <br>
 <br>
 
@@ -146,7 +146,6 @@ app/google-services.json
 ### 3. Run the Application
 
 * Connect a device or run an emulator
-* Click the **Run** button in Android Studio
 
 ---
 
