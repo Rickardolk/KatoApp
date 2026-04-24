@@ -80,6 +80,7 @@ app/google-services.json
 ---
 
 <br>
+<br>
 
 ---
 
@@ -93,7 +94,7 @@ It allows users to create personal prompt collections and share them with the co
 
 ### ⚠️ Important
 
-For security and privacy reasons, this project does not include API configuration files<img width="412" height="917" alt="Halaman Dashboard pengguna" src="https://github.com/user-attachments/assets/d1d2ed9e-a0ca-4695-b5af-15f8346cb200" />
+For security and privacy reasons, this project does not include API configuration files
  (such as `google-services.json`, API keys, or other credentials) in the repository.
 
 ---
